@@ -70,6 +70,8 @@ package Task::BeLike::FLORA;
 
 =pkg Test::Pod::Coverage
 
+=pkg V
+
 =pkgroup Modules I use a lot
 
 =pkg Catalyst::Model::KiokuDB
