@@ -30,6 +30,8 @@ package Task::BeLike::FLORA;
 
 =pkg PadWalker
 
+=pkg Task::SDK::Moose
+
 =pkg Test::Reporter
 
 =pkg Test::Reporter::Transport::Socket
