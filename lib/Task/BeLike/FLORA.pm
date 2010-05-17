@@ -54,6 +54,8 @@ package Task::BeLike::FLORA;
 
 =pkg Gitalist
 
+=pkg Module::CPANTS::Analyse
+
 =pkg Module::Install 0.95
 
 =pkg Module::Install::AuthorRequires
