@@ -74,6 +74,8 @@ package Task::BeLike::FLORA;
 
 =pkg Test::Pod::Coverage
 
+=pkg Test::Without::Module
+
 =pkg V
 
 =pkgroup Modules I use a lot
