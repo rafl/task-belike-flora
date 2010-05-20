@@ -70,6 +70,8 @@ package Task::BeLike::FLORA;
 
 =pkg Pod::Coverage::TrustPod
 
+=pkg Test::Aggregate
+
 =pkg Test::Pod
 
 =pkg Test::Pod::Coverage
