@@ -32,6 +32,8 @@ package Task::BeLike::FLORA;
 
 =pkg Task::SDK::Moose
 
+=pkg Term::ReadLine::Gnu
+
 =pkg Test::Reporter
 
 =pkg Test::Reporter::Transport::Socket
