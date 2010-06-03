@@ -40,6 +40,8 @@ package Task::BeLike::FLORA;
 
 =pkgroup Development Tools
 
+=pkg Acme::MetaSyntactic
+
 =pkg Carp::Always
 
 =pkg Carp::Always::Color
