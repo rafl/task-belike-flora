@@ -1,3 +1,8 @@
+0.05  Sat, 05 Jun 2010 20:32:56 +0200
+  * Add Acme::MetaSyntactic.
+  * Add Term::ReadLine::Gnu.
+  * Add Test::Aggregate.
+
 0.04  Tue, 18 May 2010 19:16:00 +0200
   * Add Test::Without::Module.
 
