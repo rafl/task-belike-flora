@@ -1,3 +1,7 @@
+0.06  Tue, 05 Oct 2010 01:23:29 +0200
+  * Add Perl::Version 1.010 for the perl-reversion script.
+  * Add Devel::bt.
+
 0.05  Sat, 05 Jun 2010 20:32:56 +0200
   * Add Acme::MetaSyntactic.
   * Add Term::ReadLine::Gnu.
