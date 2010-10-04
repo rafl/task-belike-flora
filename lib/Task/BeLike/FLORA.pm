@@ -74,6 +74,8 @@ package Task::BeLike::FLORA;
 
 =pkg Perl::Tidy
 
+=pkg Perl::Version 1.010
+
 =pkg Pod::Coverage::TrustPod
 
 =pkg Test::Aggregate
