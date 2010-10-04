@@ -48,6 +48,8 @@ package Task::BeLike::FLORA;
 
 =pkg Carp::REPL
 
+=pkg Devel::bt
+
 =pkg Devel::Cover
 
 =pkg Devel::NYTProf
