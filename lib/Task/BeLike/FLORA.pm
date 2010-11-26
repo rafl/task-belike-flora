@@ -58,6 +58,8 @@ package Task::BeLike::FLORA;
 
 =pkg Dist::Zilla::PluginBundle::FLORA
 
+=pkg Dist::Zilla::App::Command::weaverconf
+
 =pkg Gitalist
 
 =pkg Module::CPANTS::Analyse
